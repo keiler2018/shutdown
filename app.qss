@@ -1,4 +1,4 @@
-/**********Title**********/
+/***********Title**********/
 QTitleLabel{
         background-color: Gainsboro;
         font: 100 10pt;
